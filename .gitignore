@@ -1,0 +1,40 @@
+# Python & Bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Virtual environments
+venv/
+.venv/
+env/
+ENV/
+
+# Audio / Media files (Strictly never commit audio tracks)
+*.mp3
+*.m4a
+*.wav
+*.flac
+*.ogg
+*.opus
+*.webm
+*.webp
+
+# Download history and caches
+.download_history.json
+*.log
+
+# Batch script with local proxy
+run_downloader.bat
+.env
+.env.*
+cookies.txt
+*.cookie
+
+# IDEs & OS files
+.vscode/
+.idea/
+Thumbs.db
+Desktop.ini
+.DS_Store
